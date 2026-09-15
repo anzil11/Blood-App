@@ -49,7 +49,7 @@ const Login = () => {
           <div className="auth-logo">
             <Droplet size={32} fill="#ffffff" />
           </div>
-          <h1 className="auth-title">Welcome to LifePulse</h1>
+          <h1 className="auth-title">Welcome to DYFI</h1>
           <p className="auth-subtitle">Sign in to manage your blood donations & eligibility</p>
         </div>
 

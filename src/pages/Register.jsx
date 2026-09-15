@@ -66,7 +66,7 @@ const Register = () => {
       }
 
       await register(data);
-      showAlert('Account created successfully! Welcome to LifePulse.', 'success');
+      showAlert('Account created successfully! Welcome to DYFI.', 'success');
       navigate('/dashboard');
     } catch (err) {
       console.error(err);

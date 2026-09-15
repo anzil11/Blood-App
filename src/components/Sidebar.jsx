@@ -95,7 +95,7 @@ const Sidebar = ({ isOpen }) => {
         color: '#64748b',
         textAlign: 'center',
       }}>
-        LifePulse v1.0 • Django + React
+        DYFI v1.0 • Django + React
       </div>
     </aside>
   );
