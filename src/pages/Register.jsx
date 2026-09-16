@@ -70,6 +70,7 @@ const Register = () => {
       navigate('/dashboard');
     } catch (err) {
       console.error(err);
+      
       if (err.response?.data) {
         if (typeof err.response.data === 'object') {
           setFieldErrors(err.response.data);
