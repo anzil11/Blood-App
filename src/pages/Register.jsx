@@ -66,7 +66,7 @@ const Register = () => {
       }
 
       await register(data);
-      showAlert('Account created successfully! Welcome to DYFI.', 'success');
+      showAlert('Account created successfully! Welcome to DYFI PATTAMBI MC Blood Bridge.', 'success');
       navigate('/dashboard');
     } catch (err) {
       console.error(err);
