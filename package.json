@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
@@ -81,4 +82,27 @@
     "url": "https://github.com/anzil11/Blood-App/issues"
   },
   "homepage": "https://github.com/anzil11/Blood-App#readme"
+=======
+  "name": "blood-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "allowScripts": {
+    "esbuild": true
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0"
+  }
+>>>>>>> f3121c438f0d3e6d63c2ca590fd432d4113f3358
 }
